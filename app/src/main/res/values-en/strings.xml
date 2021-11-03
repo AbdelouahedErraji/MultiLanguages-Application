@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intro Screen</string>
+    <string name="select_language">Select Language</string>
+    <string name="select_your_language">Select Your Language</string>
+    <string name="profile_name">Kabor</string>
+    <string name="skip">Skip</string>
+    <string name="job_des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta distinctio esse eum eveniet, facere, fugit harum libero maxime nam perspiciatis quam, quas quidem quos repellat sint ut veritatis vitae voluptatem.</string>
+</resources>
